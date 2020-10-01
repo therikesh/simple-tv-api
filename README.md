@@ -1,4 +1,4 @@
-simple-tv-api
+simple-tv-api -- An Amazing Project for download recording into your tv.
 =============
 This is an api for accessing and playing back Simple.tv recordings.
 
